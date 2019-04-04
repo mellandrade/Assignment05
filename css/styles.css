@@ -1,0 +1,31 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+}
+label#name {
+    margin-right: 36px;
+}
+label#title {
+    margin-right: 45px;
+}
+label#ext {
+    margin-right: 10px;
+}
+input[type="text"] {
+    width: 15em;
+    padding: 5px 0;
+    border-color: cornflowerblue;
+    border-width: 1px;
+    border-style: solid;
+}
+input[type="submit"] {
+    font-size: 14px;
+    color: white;
+    background-color: dodgerblue;
+    margin-left: 175px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-color: cornflowerblue;
+    width: 70px;
+    height: 25px;
+}
