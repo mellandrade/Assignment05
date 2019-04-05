@@ -5,6 +5,14 @@ var $ = function(id) {
     return window.document.getElementById(id);
 };
 
+var calculate;
+var x;
+var y;
+var result;
+
+
+function calculate()
+function enter()
 
 zero.addEventListener
 one.addEventListener
@@ -25,5 +33,4 @@ period.addEventListener
 
 
 
-function calculate()
-function enter()
+
